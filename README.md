@@ -10,7 +10,7 @@
 
 ---
 
-🛠 **技术栈** ｜ `TypeScript` · `NestJS `· `React` · `Prisma` · `TailwindCSS`
+🛠 **技术栈** ｜ `TypeScript` · `NestJS` · `React` · `Prisma` · `TailwindCSS`
 
 🎯 **擅长领域** ｜ 全栈开发 · 产品原型 · 交互设计 · 数据驱动
 
