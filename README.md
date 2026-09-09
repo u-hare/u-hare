@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**u-hare/u-hare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于我 ｜ About Me
 
-Here are some ideas to get you started:
+> 我是一名偏产品型的 **TypeScript 全栈工程师**。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+习惯从 **用户与业务视角** 出发，用 **TS 统一前后端**，快速验证产品想法。
+既能独立完成从 **需求梳理 → 原型 → 部署上线** 的全流程，
+也注重 **交互细节** 与 **数据反馈**，把模糊想法落地成简洁可用的产品。
+
+---
+
+🛠 **技术栈** ｜ `TypeScript` · `NestJS `· `React` · `Prisma` · `TailwindCSS`
+
+🎯 **擅长领域** ｜ 全栈开发 · 产品原型 · 交互设计 · 数据驱动
+
+🚀 **工作方式** ｜ 独立闭环，从想法到上线
